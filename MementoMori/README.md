@@ -1,2 +1,1 @@
-# MetaInteractionSDKSamples
-Examples with Meta Interaction SDK and Oculus Integration v42 and greater
+Team Memento Mori for MIT Reality Hack 2023
