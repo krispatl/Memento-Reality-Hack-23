@@ -460,7 +460,7 @@ MonoBehaviour:
   _whenHover:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 137837743}
+      - m_Target: {fileID: 92473436}
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
         m_MethodName: set_enabled
         m_Mode: 6
@@ -3297,7 +3297,7 @@ MonoBehaviour:
   _whenHover:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 137837743}
+      - m_Target: {fileID: 1350639737}
         m_TargetAssemblyTypeName: UnityEngine.Behaviour, UnityEngine
         m_MethodName: set_enabled
         m_Mode: 6
@@ -4879,7 +4879,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5112219977172823909, guid: 9ecc0126e5f2fb942a9fdcd1ccf19cee, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5112219977172823914, guid: 9ecc0126e5f2fb942a9fdcd1ccf19cee, type: 3}
       propertyPath: m_RootOrder
@@ -4927,7 +4927,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5346662443236950056, guid: 9ecc0126e5f2fb942a9fdcd1ccf19cee, type: 3}
       propertyPath: m_IsActive
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4951,9 +4951,6 @@ PrefabInstance:
     - targetCorrespondingSourceObject: {fileID: 5112219977172823909, guid: 9ecc0126e5f2fb942a9fdcd1ccf19cee, type: 3}
       insertIndex: -1
       addedObject: {fileID: 54938569}
-    - targetCorrespondingSourceObject: {fileID: 5112219977895568363, guid: 9ecc0126e5f2fb942a9fdcd1ccf19cee, type: 3}
-      insertIndex: -1
-      addedObject: {fileID: 0}
   m_SourcePrefab: {fileID: 100100000, guid: 9ecc0126e5f2fb942a9fdcd1ccf19cee, type: 3}
 --- !u!4 &5112219977193940131 stripped
 Transform:
